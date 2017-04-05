@@ -4,25 +4,25 @@
 # # Q2_PART TWO
 # Display the top 5 Job Families according to this percentage value
 
-# In[1]:
+# In[2]:
 
 import pandas as pd
 from pandas import DataFrame
 import sys, os, datetime
 
 
-# In[2]:
+# In[3]:
 
 path = os.getcwd()+'\\data\\employee_compensation.csv'
 path
 
 
-# In[3]:
+# In[4]:
 
 df = pd.read_csv(path) #Read data from CSV
 
 
-# In[4]:
+# In[5]:
 
 df.head()
 
@@ -34,7 +34,7 @@ col = ['Year'] + list(df.loc[:,'Salaries':'Total Compensation'])
 sal = df[col]
 
 
-# In[10]:
+# In[7]:
 
 temp = []
 for each in df['Year'].unique():
@@ -64,13 +64,13 @@ avg_comp = DataFrame(temp,columns=('Year',
 avg_comp.head()
 
 
-# In[12]:
+# In[8]:
 
 #overtime greater than 5%
 df[df['Overtime'] > (df['Salaries']*0.05)].head()
 
 
-# In[13]:
+# In[9]:
 
 temp = []
 for every in df['Job Family'].unique():
@@ -86,10 +86,10 @@ percent_comp = DataFrame(temp,columns=('Job Family',
 percent_comp.head()
 
 
-# In[14]:
+# In[10]:
 
 #write to csv
-avg_comp.to_csv('Ques02_Part02.csv',index=False,header=True)
+percent_comp.to_csv('Ques02_Part02.csv',index=False,header=True)
 
 
 # In[ ]:
