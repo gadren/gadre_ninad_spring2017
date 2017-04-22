@@ -94,3 +94,15 @@ In above graph we can see the count of number of flights per state for years 198
 
 ![6](https://cloud.githubusercontent.com/assets/25044649/25306453/67b32a36-275b-11e7-92f6-aae81c38cff1.png)
 We can conclude from above airports from California state that Los Angeles, San Francisco, San Diego has most air traffic and the number of flights increase yearly
+
+## Analysis05
+In this Analysis, we will use delay data for flights and plot the delayed routes on map of the United States by using destination and origin using latitude and longitude of airports and also plot routes for delta airways and United airlines on map for the year 2016 and for the month January
+
+![1](https://cloud.githubusercontent.com/assets/25044649/25306479/cff40570-275b-11e7-8a4d-aaae5916109a.png)
+From above map we can see all the routes having delayed flights for the month of January in the year 2016
+
+![2](https://cloud.githubusercontent.com/assets/25044649/25306481/d1f695f4-275b-11e7-9e9d-4aa9a560a88f.png)
+Above map displays all the routes for Delta airways in the year 2016 for the month January. Also as Delta headquarters is in Atlanta, most of the flight routes are crowded near Atlanta
+
+![3](https://cloud.githubusercontent.com/assets/25044649/25306483/e3225020-275b-11e7-9dc1-3bb717dd8fe7.png)
+Above map displays all the routes for United airlines in the year 2016 for the month January. Also as United headquarters is in Chicago, most of the flight routes are crowded near Chicago
