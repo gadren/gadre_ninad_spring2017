@@ -61,7 +61,7 @@ In this analysis we analyze the on-time performance of the flights in the the Un
 Data from 50 most busy airports according to number of total incoming and outgoing domestic flights
 
 ![2](https://cloud.githubusercontent.com/assets/25044649/25306414/b4879e7e-275a-11e7-868e-bd0569dc36a8.png)
-
+![4](https://cloud.githubusercontent.com/assets/25044649/25306424/e84d0b9a-275a-11e7-96c0-c19b9074f5bf.png)
 * The graph in upper left corner displays the on-time performance of flights based on Carriers. According to the graph, Hawaiian         Airlines, Alaska Airlines and American Airlines are the ones whose flights are on-time as Y-axis depicts delay ratio
 * The graph in upper right corner displays the total number of flights each carrier had in the month of January in the year 2017
 * The graph at bottom display the ratio of number of flights according to delay ratio
