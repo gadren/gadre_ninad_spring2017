@@ -69,3 +69,28 @@ Data from 50 most busy airports according to number of total incoming and outgoi
 ![3](https://cloud.githubusercontent.com/assets/25044649/25306415/b63374b4-275a-11e7-9e5b-9e271de392d1.png)
 
 In the map above, airport locations are shown with circles color coded accordinf to on-time performance. The area of each circle is proportional to the total number of flights at that airport
+
+## Analysis04
+We will look at flight data for the month of December for years 1987, 1997 and 2016. We will try and analyze to find out in what ways airline travel has become better.
+
+![1](https://cloud.githubusercontent.com/assets/25044649/25306444/5f8490d4-275b-11e7-86ee-c3ae90c7bcdc.png)
+From above bar graph we can conclude that number of carriers were more in 1987 than 1997 and 2016
+(1987 - 14) (1997 - 10) (2016 - 12)
+
+![2](https://cloud.githubusercontent.com/assets/25044649/25306447/612c0a8e-275b-11e7-9bf3-6bda9135e7e4.png)
+From above bar graph we can conclude that number of airports are more in 2016 than 1987 and 1997
+(1987 - 234) (1997 - 202) (2016 - 297)
+
+![3](https://cloud.githubusercontent.com/assets/25044649/25306448/62b9e164-275b-11e7-859c-89cdc9d0bdaf.png)
+From above bar graph we can conclude that number of flights are more in 2016 than 1987 and 1997
+(1987 - 440392) (1997 - 450889) (2016 - 460937)
+
+![4](https://cloud.githubusercontent.com/assets/25044649/25306449/64679e16-275b-11e7-8dcb-5ddb2865e3ae.png)
+From above bar graph we can conclude that number of flights per airport are more in 1997 than 1987 and 2016
+(1987 - 1882) (1997 - 2232) (2016 - 1551)
+
+![5](https://cloud.githubusercontent.com/assets/25044649/25306451/65cd08e0-275b-11e7-81aa-673fca857410.png)
+In above graph we can see the count of number of flights per state for years 1987, 1997 and 2016 for the month of December. We can see there is significant increase in number of flights as the year progresses in the state of California and Florida
+
+![6](https://cloud.githubusercontent.com/assets/25044649/25306453/67b32a36-275b-11e7-92f6-aae81c38cff1.png)
+We can conclude from above airports from California state that Los Angeles, San Francisco, San Diego has most air traffic and the number of flights increase yearly
