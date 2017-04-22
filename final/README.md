@@ -10,3 +10,5 @@ You need to run with administrator rights "Anaconda Prompt" and in "Anaconda Pro
 
 , it will show new packages that you need to install and will ask you to install it - say 'Yes'.
 After that new packages will be installed
+
+Air travel in the United States has improved over years with increase in number of airports per state or increase in number of carriers or increase in number of flights and various such things. Also, due to increase of air traffic number of flight cancellation and delay has increased. By taking all these things into considerations we will try and analyze the improvements in US domestic air travel. We will also analyze data from recent years, just to take various reasons behing flight delay or cancellation.
